@@ -50,14 +50,3 @@ Outside of work, I enjoy exploring new programming languages and frameworks, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
-###
-## <img src="https://emoji.discadia.com/emojis/f9e15174-d2c8-4914-8554-cce3a7355772.gif" width="30px"> My GitHub Stats & Activity
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Profile Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=elmasnaoui-mohamed&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="119" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elmasnaoui-mohamed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="119" alt="languages graph"  />
-</div>
-
-### <img src="https://emoji.discadia.com/emojis/406a2823-eec3-4496-aa0f-5b6a0c74914a.GIF" width="30px"> Contributions 🐍
-<img src="https://raw.githubusercontent.com/elmasnaoui-mohamed/elmasnaoui-mohamed/output/github-contribution-grid-snake.svg" alt="Snake animation" />
