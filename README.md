@@ -7,13 +7,13 @@
 </div>
 
 ## <img src="https://emoji.discadia.com/emojis/14b44ce8-7826-434f-8d62-cafc0c0171ce.GIF" width="30px"> About Me:
-<li>Hi, I'm Mohamed El Masnaoui, a frontend developer with a passion for creating meaningful and delightful user experiences. I thrive on the challenge of turning complex business requirements into intuitive and engaging interfaces that drive user engagement and loyalty.
+Hi, I'm Mohamed El Masnaoui, a frontend developer with a passion for creating meaningful and delightful user experiences. I thrive on the challenge of turning complex business requirements into intuitive and engaging interfaces that drive user engagement and loyalty.
 
 I have honed my skills in crafting responsive layouts, implementing smooth animations and interactions, and optimizing performance and accessibility. I always stay up-to-date with the latest trends and best practices in frontend development to deliver innovative solutions that exceed expectations.
 
 But what really sets me apart is my focus on collaboration and results. I firmly believe that the best outcomes come from close collaboration with stakeholders, designers, and developers, and I'm always eager to learn from others and share my knowledge. I'm also committed to delivering value to the business and the users, by aligning my work with the strategic goals of the project and measuring the impact of my solutions.
 
-Outside of work, I enjoy exploring new programming languages and frameworks, and experimenting with personal projects that challenge my creativity and problem-solving skills. If you're looking for a frontend developer who can bring energy, expertise, and passion to your team, let's connect!</li>
+Outside of work, I enjoy exploring new programming languages and frameworks, and experimenting with personal projects that challenge my creativity and problem-solving skills. If you're looking for a frontend developer who can bring energy, expertise, and passion to your team, let's connect!
  </p>
 
  ###
